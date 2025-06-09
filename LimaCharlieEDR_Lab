@@ -1,7 +1,0 @@
-LimaCharlie and Sliver SOC Home Lab
-
-Windows VM (Victim) Setup
-1.	Downloaded VM and installed W11 VM file. 
-2.	Turned off Windows Defender temp and permanently. I used this guide to help turn it off permanently: https://windowsreport.com/disable-windows-defender-windows-11/ 
-
-
